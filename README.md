@@ -13,4 +13,3 @@ the thing of the said the world was a sea,
 and the shadow of the sky
  
  Would you like to hear how that sounds?
- <audio src="audio.mp3" controls preload></audio>
