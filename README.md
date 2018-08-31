@@ -1,4 +1,4 @@
-# The Artificial Poet: Generating poems with character-level LSTMs
+# The Artificial Poet: Generating poems with a character-level LSTM
 
 Poem generated during epoch 105:
 
