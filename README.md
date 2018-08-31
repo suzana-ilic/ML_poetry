@@ -1,6 +1,6 @@
 # The Artificial Poet: Generating poems with a character-level LSTM
 
-Poem generated during epoch 105:
+**Poem generated during epoch 105:**
 
 1 on a charred spinning wheel, the world was cold the soul of the storm,
 
@@ -20,4 +20,5 @@ Poem generated during epoch 105:
 
 9 and the shadow of the sky
  
-Would you like to hear how that sounds?
+
+**Would you like to hear how that sounds?**
